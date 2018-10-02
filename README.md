@@ -2,7 +2,7 @@
 This repository serves as a writeup for PicoCTF_2017
 
 ## Completed Challenges
-_Challenges without links are uncompleted/unattempted challenges._
+__Challenges without links are uncompleted/unattempted challenges.__
 
 * **Tutorial**
     - [Tutorial-1_0](tutorial/tutorial_1)
